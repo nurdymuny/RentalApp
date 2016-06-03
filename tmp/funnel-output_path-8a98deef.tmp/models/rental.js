@@ -1,0 +1,1 @@
+/Users/attmac108/super-rentals/tmp/funnel-input_base_path-I94FbqwC.tmp/0/models/rental.js

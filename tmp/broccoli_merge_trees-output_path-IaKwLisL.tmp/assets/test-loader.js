@@ -1,0 +1,1 @@
+/Users/attmac108/super-rentals/bower_components/ember-cli-test-loader/test-loader.js

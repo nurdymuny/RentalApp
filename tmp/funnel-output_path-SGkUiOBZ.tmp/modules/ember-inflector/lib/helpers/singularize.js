@@ -1,0 +1,1 @@
+/Users/attmac108/super-rentals/tmp/funnel-input_base_path-jQjSe9dr.tmp/0/lib/helpers/singularize.js

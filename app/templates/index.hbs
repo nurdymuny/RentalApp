@@ -1,0 +1,12 @@
+{{link-to 'Home' "index" class="nav"}}
+{{link-to 'About' "about" class="nav"}}
+{{link-to 'Contact us' "contact" class="nav"}}
+<h1>Welcome to Super Rentals</h1>
+
+We hope you find exactly what you're looking for in a place to stay.
+<br /><br />
+{{filter-listing filteredList=filteredList 
+autoComplete=(action 'autoComplete') search=(action 'search')}}
+{{#each model as |rentalUnit|}}
+  {{rental-listing rental=rentalUnit}}
+{{/each}}

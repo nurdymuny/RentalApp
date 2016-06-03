@@ -1,0 +1,1 @@
+/Users/attmac108/super-rentals/node_modules/ember-cli/lib/broccoli/testem.js
